@@ -1,4 +1,4 @@
-ENGLISH
+# ENGLISH
 
 In the CyberEsquina the grey sky had returned, the dark season without rays of light was here; playing in the streets, going to the beach and to the parks would be activities that soon could no longer be done, it is the moment in which their inhabitants have to seek shelter.
 
@@ -18,7 +18,7 @@ The pain from her neck wound doesn't stop, but she learns to live with it, and d
 
 -----------------------------------------
 
-SPANISH
+# SPANISH
 
 En la CyberEsquina el cielo gris había vuelto, la temporada oscura sin rayos de luz estaba aquí, jugar por las calles, la salida a la playa y a los parques serían actividades que pronto ya no se podría hacer, es el momento en el que a sus habitantes les toca buscar refugio.
 
