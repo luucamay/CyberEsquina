@@ -7,3 +7,4 @@ La CyberEsquina is a space built by 28 stories, each day a different story about
 * [CyberEsquina Countdown Commit #27](Commit27.md)
 * [CyberEsquina Countdown Commit #26](Commit26.md)
 * [CyberEsquina Countdown Commit #25](Commit25.md)
+* [CyberEsquina Countdown Commit #24](Commit24.md)
